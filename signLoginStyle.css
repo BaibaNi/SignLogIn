@@ -1,0 +1,75 @@
+h1{
+    font-family: Impact, Fantasy, sans-serif;
+    font-weight: 800;
+    -webkit-text-stroke-color: #734f96;
+    -webkit-text-fill-color: #FED8B1;
+    -webkit-text-stroke-width: 1px;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 3%;
+}
+
+body{
+    font-family: Impact, Fantasy, sans-serif;
+    font-size: 20px;
+    color: #734f96;
+    text-align: center;
+    background-color: #B6A19E;
+}
+
+p{
+    font-family: "Arial Narrow", sans-serif;
+    font-size: 15px;
+    color: #FED8B1;
+}
+
+div.header{
+    overflow: hidden;
+    background-color: #FED8B1;
+    padding: 10px 20px;
+}
+
+div.header a {
+    float: right;
+    color: #734f96;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 15px;
+    border-radius: 4px;
+}
+
+div.header a:hover {
+    background-color: lavender;
+    color: #734f96;
+}
+
+
+div.arrangeForms{
+    width:300px;
+    margin:0 auto;
+
+}
+
+input.looks{
+    font-family: "Arial Narrow", sans-serif;
+    font-size: 15px;
+    color: #B6A19E;
+    background-color: lavender;
+    border-radius: 4px;
+    border-color: lavender;
+    margin: 1% auto;
+    width: 250px;
+    padding: 8px 8px;
+}
+
+button.fancy{
+    font-family: Impact, Fantasy, sans-serif;
+    font-size: 20px;
+    background-color: lavender;
+    color: #734f96;
+    border-radius: 4px;
+    border-color: lavender;
+    margin: 1% auto;
+    padding: 5px 5px;
+}
