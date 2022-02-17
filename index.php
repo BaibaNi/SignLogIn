@@ -11,8 +11,6 @@ session_start();
     <title>Sign-up & Log-in</title>
 </head>
 
-
-
 <body>
 <div class="header">
     <h1><b>SIGN-UP & LOG-IN</b></h1>
